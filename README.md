@@ -1,4 +1,4 @@
-# Task Manager Application
+# Task Manager Application.
 
 Esta es una aplicación de gestión de tareas (To-Do List) construida con Angular. Permite a los usuarios gestionar sus tareas de manera eficiente, con una interfaz moderna y profesional.
 
